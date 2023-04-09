@@ -17,7 +17,6 @@ def hello(*args):
 
 @input_errors
 def add(*args):
-    # list_of_contacts = args[0].split()
     name = args[0]
     phone = args[1]
 
